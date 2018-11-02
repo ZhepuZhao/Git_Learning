@@ -1,0 +1,2 @@
+This is a test file to check how commit changes
+when this is a local git push command.
